@@ -1,0 +1,30 @@
+
+#content {
+  background: black;
+  color: white;
+  min-width: 100%;
+  min-height: 100%
+}
+.least-content {
+  color: rgba(255, 255, 255, 0.54) !important;
+}
+.list-group-item-heading {
+  color: rgba(255, 255, 255, 0.77) !important;
+}
+.badge {
+  background-color: #eac82a;
+  color: black;
+}
+.list-group {
+  /*margin-bottom: 0;*/
+}
+.row-action-primary > i {
+  background: rgba(255,255,255,.25) !important;
+}
+i {
+  color: #eac82a !important;
+}
+/*ul {
+  -webkit-padding-start: 15;
+  -moz-padding-start: 15;
+}*/
