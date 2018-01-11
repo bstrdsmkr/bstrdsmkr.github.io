@@ -1,0 +1,27 @@
+#content {
+  min-width: 100%;
+  min-height: 100%
+}
+.badge {
+  background-color: #eac82a;
+  color: black;
+}
+i {
+  color: #eac82a !important;
+}
+.yellow {
+  color: #eac82a;
+}
+#header {
+  margin-top: 40px;
+}
+.vertical-divider {
+  position: absolute;
+  height: 80%;
+  margin: 0 9px;
+  border-left: 1px solid #F2F2F2;
+  border-right: 1px solid #FFF;
+}
+#cover-letter-body>p {
+  text-indent: 2em;
+}
